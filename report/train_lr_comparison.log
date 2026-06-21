@@ -1,0 +1,18 @@
+Device: cuda
+
+=== lr=0.01 ===
+Generating 500 mate-in-1 positions...
+Done.
+  84 updates  final smoothed checkmate frac: 0.7%  (73s)
+
+=== lr=0.001 ===
+Generating 500 mate-in-1 positions...
+Done.
+  93 updates  final smoothed checkmate frac: 0.4%  (75s)
+
+=== lr=0.0001 ===
+Generating 500 mate-in-1 positions...
+Done.
+  150 updates  final smoothed checkmate frac: 2.8%  (113s)
+
+Done. Saved /home/anass/School/chessMate/report/lr_comparison.json

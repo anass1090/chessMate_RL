@@ -1,0 +1,48 @@
+Device: cuda
+PPO from scratch: 300,000 episodes, eval every 6,000
+
+Using device: cuda
+Generating 500 mate-in-1 positions...
+Done.
+Episode      0  — evaluating random weights...
+  checkmate_rate: 0.0%
+Episode   6,000  checkmate: 0.2%  (7s)
+Episode  12,000  checkmate: 0.0%  (6s)
+Episode  18,000  checkmate: 0.2%  (6s)
+Episode  24,000  checkmate: 0.2%  (6s)
+Episode  30,000  checkmate: 0.0%  (6s)
+Episode  36,000  checkmate: 0.4%  (6s)
+Episode  42,000  checkmate: 0.8%  (6s)
+Episode  48,000  checkmate: 0.2%  (5s)
+Episode  54,000  checkmate: 1.0%  (5s)
+Episode  60,000  checkmate: 0.6%  (5s)
+Episode  66,000  checkmate: 0.0%  (6s)
+Episode  72,000  checkmate: 0.4%  (5s)
+Episode  78,000  checkmate: 0.4%  (5s)
+Episode  84,000  checkmate: 0.2%  (5s)
+Episode  90,000  checkmate: 0.2%  (5s)
+Episode  96,000  checkmate: 0.8%  (5s)
+Episode 102,000  checkmate: 0.4%  (6s)
+Episode 108,000  checkmate: 0.2%  (5s)
+Episode 114,000  checkmate: 0.4%  (6s)
+Episode 120,000  checkmate: 0.2%  (5s)
+Episode 126,000  checkmate: 0.6%  (6s)
+Episode 132,000  checkmate: 0.6%  (6s)
+Episode 138,000  checkmate: 0.2%  (6s)
+Episode 144,000  checkmate: 0.4%  (7s)
+Episode 150,000  checkmate: 0.0%  (29s)
+Episode 156,000  checkmate: 0.2%  (6s)
+Episode 162,000  checkmate: 1.0%  (6s)
+Episode 168,000  checkmate: 0.8%  (6s)
+Episode 174,000  checkmate: 1.0%  (6s)
+Episode 180,000  checkmate: 0.0%  (7s)
+Episode 186,000  checkmate: 0.0%  (7s)
+Episode 192,000  checkmate: 0.0%  (6s)
+Episode 198,000  checkmate: 0.8%  (9s)
+Episode 204,000  checkmate: 0.2%  (9s)
+Episode 210,000  checkmate: 1.0%  (8s)
+Episode 216,000  checkmate: 0.4%  (8s)
+Episode 222,000  checkmate: 0.6%  (8s)
+Episode 228,000  checkmate: 0.8%  (8s)
+/home/anass/miniconda3/envs/chessmate/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 96 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

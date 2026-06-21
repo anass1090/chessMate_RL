@@ -1,0 +1,37 @@
+[
+  {
+    "name": "random init",
+    "checkmate_rate": 0.0,
+    "mate_in_one": 0.022
+  },
+  {
+    "name": "v1 (~500k eps)",
+    "checkmate_rate": 0.004,
+    "mate_in_one": 0.39
+  },
+  {
+    "name": "v1s2 (~3M eps)",
+    "checkmate_rate": 0.966,
+    "mate_in_one": 0.276
+  },
+  {
+    "name": "v2 (~500k eps)",
+    "checkmate_rate": 0.004,
+    "mate_in_one": 0.294
+  },
+  {
+    "name": "v2s2 (~3M eps)",
+    "checkmate_rate": 0.988,
+    "mate_in_one": 0.302
+  },
+  {
+    "name": "v2s3 (+100k)",
+    "checkmate_rate": 0.986,
+    "mate_in_one": 0.394
+  },
+  {
+    "name": "v2s4 (+100k)",
+    "checkmate_rate": 0.994,
+    "mate_in_one": 0.552
+  }
+]

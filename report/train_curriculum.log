@@ -1,0 +1,42 @@
+Curriculum annealing: 520,000 total episodes
+
+Using device: cuda
+Generating 500 mate-in-1 positions...
+Done.
+--- ratio=1.0  training 120,000 episodes ---
+Episode 120032/120000
+Mate-in-1 accuracy (stochastic): 352/500 = 70.4%
+  mate-in-1: 70.4%  (82s)
+
+--- ratio=0.8  training 80,000 episodes ---
+Episode 80352/80000
+Mate-in-1 accuracy (stochastic): 372/500 = 74.4%
+  mate-in-1: 74.4%  (47s)
+
+--- ratio=0.6  training 80,000 episodes ---
+Episode 80352/80000
+Mate-in-1 accuracy (stochastic): 377/500 = 75.4%
+  mate-in-1: 75.4%  (27s)
+
+--- ratio=0.4  training 80,000 episodes ---
+Episode 80352/80000
+Mate-in-1 accuracy (stochastic): 412/500 = 82.4%
+  mate-in-1: 82.4%  (29s)
+
+--- ratio=0.2  training 80,000 episodes ---
+Episode 80352/80000
+Mate-in-1 accuracy (stochastic): 392/500 = 78.4%
+  mate-in-1: 78.4%  (33s)
+
+--- ratio=0.0  training 80,000 episodes ---
+Episode 80352/80000
+Mate-in-1 accuracy (stochastic): 346/500 = 69.2%
+  mate-in-1: 69.2%  (34s)
+
+Done. Saved /home/anass/School/chessMate/report/curriculum_history.json
+  ratio=1.0  mate-in-1=70.4%
+  ratio=0.8  mate-in-1=74.4%
+  ratio=0.6  mate-in-1=75.4%
+  ratio=0.4  mate-in-1=82.4%
+  ratio=0.2  mate-in-1=78.4%
+  ratio=0.0  mate-in-1=69.2%

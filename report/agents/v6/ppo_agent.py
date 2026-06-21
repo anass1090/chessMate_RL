@@ -328,6 +328,7 @@ class PPOAgent:
             print(f"  {reason:30s}: {count}")
         print(f"  {'mean_steps':30s}: {results['mean_steps']:.1f}")
         print(f"  {'checkmate_rate':30s}: {results['checkmate_rate']*100:.1f}%")
+        return results
 
 
 def _sample_action(logits: torch.Tensor, legal: list[int]) -> tuple[int, int]:

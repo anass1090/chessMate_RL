@@ -7,6 +7,7 @@ from gymnasium import spaces
 
 import utils.board as b
 
+#--_PENALTY--#
 STEP_PENALTY        = -0.15
 CHECKMATE_REWARD    = 10.0
 MISSED_MATE_PENALTY = -3.0

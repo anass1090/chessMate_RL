@@ -1,12 +1,10 @@
-import random
-
-import chess
 import numpy as np
 import gymnasium as gym
 from gymnasium import spaces
 
 import utils.board as b
 
+#--_PENALTY--#
 STEP_REWARD      =  0.15
 CHECKMATE_REWARD = -10.0
 DRAW_REWARD      =  5.0

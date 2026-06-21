@@ -1,0 +1,526 @@
+[
+  {
+    "episode": 0,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 5000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 10000,
+    "checkmate_rate": 0.0
+  },
+  {
+    "episode": 15000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 20000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 25000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 30000,
+    "checkmate_rate": 0.0133
+  },
+  {
+    "episode": 35000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 40000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 45000,
+    "checkmate_rate": 0.0133
+  },
+  {
+    "episode": 50000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 55000,
+    "checkmate_rate": 0.0133
+  },
+  {
+    "episode": 60000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 65000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 70000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 75000,
+    "checkmate_rate": 0.01
+  },
+  {
+    "episode": 80000,
+    "checkmate_rate": 0.0
+  },
+  {
+    "episode": 85000,
+    "checkmate_rate": 0.0133
+  },
+  {
+    "episode": 90000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 95000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 100000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 105000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 110000,
+    "checkmate_rate": 0.0
+  },
+  {
+    "episode": 115000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 120000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 125000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 130000,
+    "checkmate_rate": 0.0
+  },
+  {
+    "episode": 135000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 140000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 145000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 150000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 155000,
+    "checkmate_rate": 0.01
+  },
+  {
+    "episode": 160000,
+    "checkmate_rate": 0.0133
+  },
+  {
+    "episode": 165000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 170000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 175000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 180000,
+    "checkmate_rate": 0.01
+  },
+  {
+    "episode": 185000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 190000,
+    "checkmate_rate": 0.01
+  },
+  {
+    "episode": 195000,
+    "checkmate_rate": 0.0
+  },
+  {
+    "episode": 200000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 205000,
+    "checkmate_rate": 0.0
+  },
+  {
+    "episode": 210000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 215000,
+    "checkmate_rate": 0.01
+  },
+  {
+    "episode": 220000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 225000,
+    "checkmate_rate": 0.0133
+  },
+  {
+    "episode": 230000,
+    "checkmate_rate": 0.01
+  },
+  {
+    "episode": 235000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 240000,
+    "checkmate_rate": 0.0
+  },
+  {
+    "episode": 245000,
+    "checkmate_rate": 0.0133
+  },
+  {
+    "episode": 250000,
+    "checkmate_rate": 0.0233
+  },
+  {
+    "episode": 255000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 260000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 265000,
+    "checkmate_rate": 0.0
+  },
+  {
+    "episode": 270000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 275000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 280000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 285000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 290000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 295000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 300000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 305000,
+    "checkmate_rate": 0.01
+  },
+  {
+    "episode": 310000,
+    "checkmate_rate": 0.01
+  },
+  {
+    "episode": 315000,
+    "checkmate_rate": 0.01
+  },
+  {
+    "episode": 320000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 325000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 330000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 335000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 340000,
+    "checkmate_rate": 0.0133
+  },
+  {
+    "episode": 345000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 350000,
+    "checkmate_rate": 0.0133
+  },
+  {
+    "episode": 355000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 360000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 365000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 370000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 375000,
+    "checkmate_rate": 0.01
+  },
+  {
+    "episode": 380000,
+    "checkmate_rate": 0.0133
+  },
+  {
+    "episode": 385000,
+    "checkmate_rate": 0.02
+  },
+  {
+    "episode": 390000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 395000,
+    "checkmate_rate": 0.0133
+  },
+  {
+    "episode": 400000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 405000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 410000,
+    "checkmate_rate": 0.01
+  },
+  {
+    "episode": 415000,
+    "checkmate_rate": 0.0267
+  },
+  {
+    "episode": 420000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 425000,
+    "checkmate_rate": 0.0167
+  },
+  {
+    "episode": 430000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 435000,
+    "checkmate_rate": 0.0133
+  },
+  {
+    "episode": 440000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 445000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 450000,
+    "checkmate_rate": 0.0
+  },
+  {
+    "episode": 455000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 460000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 465000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 470000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 475000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 480000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 485000,
+    "checkmate_rate": 0.0133
+  },
+  {
+    "episode": 490000,
+    "checkmate_rate": 0.0133
+  },
+  {
+    "episode": 495000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 500000,
+    "checkmate_rate": 0.0133
+  },
+  {
+    "episode": 505000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 510000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 515000,
+    "checkmate_rate": 0.01
+  },
+  {
+    "episode": 520000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 525000,
+    "checkmate_rate": 0.0167
+  },
+  {
+    "episode": 530000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 535000,
+    "checkmate_rate": 0.01
+  },
+  {
+    "episode": 540000,
+    "checkmate_rate": 0.01
+  },
+  {
+    "episode": 545000,
+    "checkmate_rate": 0.01
+  },
+  {
+    "episode": 550000,
+    "checkmate_rate": 0.02
+  },
+  {
+    "episode": 555000,
+    "checkmate_rate": 0.0133
+  },
+  {
+    "episode": 560000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 565000,
+    "checkmate_rate": 0.01
+  },
+  {
+    "episode": 570000,
+    "checkmate_rate": 0.01
+  },
+  {
+    "episode": 575000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 580000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 585000,
+    "checkmate_rate": 0.0133
+  },
+  {
+    "episode": 590000,
+    "checkmate_rate": 0.0033
+  },
+  {
+    "episode": 595000,
+    "checkmate_rate": 0.01
+  },
+  {
+    "episode": 600000,
+    "checkmate_rate": 0.0133
+  },
+  {
+    "episode": 605000,
+    "checkmate_rate": 0.0167
+  },
+  {
+    "episode": 610000,
+    "checkmate_rate": 0.0167
+  },
+  {
+    "episode": 615000,
+    "checkmate_rate": 0.02
+  },
+  {
+    "episode": 620000,
+    "checkmate_rate": 0.0133
+  },
+  {
+    "episode": 625000,
+    "checkmate_rate": 0.01
+  },
+  {
+    "episode": 630000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 635000,
+    "checkmate_rate": 0.0133
+  },
+  {
+    "episode": 640000,
+    "checkmate_rate": 0.02
+  },
+  {
+    "episode": 645000,
+    "checkmate_rate": 0.0067
+  },
+  {
+    "episode": 650000,
+    "checkmate_rate": 0.0267
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "centrum": {
+    "checkmate_rate": 0.991,
+    "checkmate": 991,
+    "missed_mate": 8,
+    "queen_hang": 1
+  },
+  "random": {
+    "checkmate_rate": 0.996,
+    "checkmate": 996,
+    "missed_mate": 4
+  },
+  "neural": {
+    "checkmate_rate": 0.932
+  }
+}

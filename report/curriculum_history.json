@@ -1,0 +1,26 @@
+[
+  {
+    "ratio": 1.0,
+    "mate_acc": 70.4
+  },
+  {
+    "ratio": 0.8,
+    "mate_acc": 74.4
+  },
+  {
+    "ratio": 0.6,
+    "mate_acc": 75.4
+  },
+  {
+    "ratio": 0.4,
+    "mate_acc": 82.4
+  },
+  {
+    "ratio": 0.2,
+    "mate_acc": 78.4
+  },
+  {
+    "ratio": 0.0,
+    "mate_acc": 69.2
+  }
+]
